@@ -1,0 +1,17 @@
+{
+  "name": "wpbott",
+  "version": "1.0.0",
+  "description": "whatsapp bot to add user input to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmdnawaz1",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "mongodb": "^5.0.0",
+    "mongoose": "^6.9.1",
+    "whatsapp-web.js": "^1.19.3"
+  }
+}
