@@ -1,4 +1,4 @@
-#WhatsApp to MongoDB.
+## WhatsApp to MongoDB.
 
 This is a WhatsApp bot which inserts the data into the MongoDB collection from WhatsApp built on Nodejs using `mongoose` and `whatsapp-web.js` npm packages
 
